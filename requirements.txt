@@ -1,0 +1,5 @@
+streamlit
+elevenlabs
+python-dotenv
+watchdog
+datetime
