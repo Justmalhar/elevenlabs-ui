@@ -1,4 +1,4 @@
-# ElevenLabs TTS Streamlit App
+# ElevenLabs TTS UI - Streamlit App
 
 A Streamlit-based web application that for ElevenLabs' text-to-speech capabilities, supporting 28 languages through the Eleven Multilingual V2 model.
 
